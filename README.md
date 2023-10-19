@@ -24,7 +24,7 @@ ACADEMIC PROJECTS AND ASSIGNMENTS
 2. Titled "Music Recommendation System," this project was meticulously designed to leverage the potential of machine learning and deep learning models, solidifying my expertise in these cutting-edge technologies.
 3. The project was thoughtfully structured into distinct phases, with Phase I encompassing an in-depth Exploratory Data Analysis of music datasets utilizing APIs. Progressing to Phase II, I implemented a sophisticated deep learning model, further enriching the project's technical complexity. Phase III involved the creation of a dynamic website using Flask, culminating in the successful deployment of the entire system on a cloud platform, showcasing my full-stack development capabilities.
 
-[Automation Script Java](https://github.com/npathak24/AutomationScripts)
+[Automation Script Java](https://github.com/npathak24/AutomationScript_Java)
 1. Within my portfolio, you will find a compilation of test automation scripts developed using Selenium with Java, showcasing my proficiency in this technology.
 2. The automation implementation revolves around a Hybrid framework, highlighting my ability to create robust and flexible testing solutions.
 3. I have successfully conducted test automation on critical aspects of Salesforce, such as the login page, navigation functionalities, and contact creation page, demonstrating my expertise in testing complex web applications.
