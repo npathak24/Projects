@@ -34,3 +34,7 @@ ACADEMIC PROJECTS AND ASSIGNMENTS
 1. Within my portfolio, you will find a compilation of test automation scripts developed using Selenium with Python, showcasing my proficiency in this technology.
 2. The automation implementation revolves around a Data Driven framework, highlighting my ability to create robust and flexible testing solutions.
 3. This endeavor was undertaken as a personal project, driven solely by my dedication to continuous self-improvement and learning in the field of test automation.
+
+[API Automation Framework](https://github.com/npathak24/API_Automation)
+1. With my github project, you will find a rest assured framework designed to test Rest API using selenium with java language.
+2. The framework includes some basic scripts to create users, read users, update users and delete users using rest api.
